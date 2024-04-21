@@ -2,7 +2,7 @@
 /********* General CSS *********/
 /*******************************/
 
-@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Jura&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Proxima+Nova&display=swap');
 
@@ -11,7 +11,7 @@
 body {
     color: #797979;
     background: #ffffff;
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: 'Jura', sans-serif;
 }
 
 h1,
